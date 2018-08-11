@@ -6,5 +6,5 @@
 
 
 說明:
-  pyzbar的使用與教學可以參考這篇
+  pyzbar的使用與教學可以參考這篇 <br/>
   https://www.learnopencv.com/barcode-and-qr-code-scanner-using-zbar-and-opencv/
